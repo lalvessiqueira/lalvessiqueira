@@ -1,6 +1,6 @@
-#### 
+#### Hiiiii 😺
 
-<img align="center" alt="Leti-greeting" src="https://media.tenor.com/images/acc4116372dcc4b342cb1a00ae657151/tenor.gif">
+<img align="center" alt="Leti-greeting" src="https://i.pinimg.com/originals/2d/8e/e8/2d8ee815146390d567706f2c7b5c2916.gif">
   
 ![Snake animation](https://github.com/lalvessiqueira/lalvessiqueira/blob/output/github-contribution-grid-snake.svg)
 
