@@ -1,4 +1,6 @@
-#### Hi there 👋
+#### 
+
+<img align="center" alt="Leti-greeting" src="https://media.tenor.com/images/acc4116372dcc4b342cb1a00ae657151/tenor.gif">
   
 ![Snake animation](https://github.com/lalvessiqueira/lalvessiqueira/blob/output/github-contribution-grid-snake.svg)
 
