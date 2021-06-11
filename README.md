@@ -2,6 +2,8 @@
   
 ![Snake animation](https://github.com/lalvessiqueira/lalvessiqueira/blob/output/github-contribution-grid-snake.svg)
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/lalvessiqueira/lalvessiqueira/output/github-contribution-grid-snake.svg)
+
 <!-- ## 
  <div>
   <a href="https://github.com/lalvessiqueira">
