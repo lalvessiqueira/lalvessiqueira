@@ -1,6 +1,6 @@
 ##                     😺
   
-![Snake animation](https://github.com/lalvessiqueira/lalvessiqueira/output/blob/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/lalvessiqueira/lalvessiqueira/blob/output/github-contribution-grid-snake.svg)
 
 
 <!-- ## 
