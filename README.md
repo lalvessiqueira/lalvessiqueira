@@ -1,9 +1,18 @@
 😺
   
 <!-- ![Snake animation](https://github.com/lalvessiqueira/lalvessiqueira/blob/output/github-contribution-grid-snake.svg) -->
-![Snake animation](https://github.com/lalvessiqueira/lalvessiqueira/raw/output/github-contribution-grid-snake.svg)
-<!-- 
+![](https://github.com/lalvessiqueira/lalvessiqueira/raw/output/github-contribution-grid-snake.svg)
 
+Generates a snake game from a github user contributions graph
+
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+Pull a github user's contribution graph.
+Make it a snake Game, generate a snake path where the cells get eaten in an orderly fashion.
+
+Generate a [gif](https://github.com/lalvessiqueira/lalvessiqueira/raw/output/github-contribution-grid-snake.gif) or [svg](https://github.com/lalvessiqueira/lalvessiqueira/raw/output/github-contribution-grid-snake.svg) image.
+
+<!-- 
 ## 
  <div>
   <a href="https://github.com/lalvessiqueira">
