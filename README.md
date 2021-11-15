@@ -5,7 +5,7 @@
 
 <!-- Generates a snake game from a github user contributions graph -->
 
-![](https://github.com/lalvessiqueira/lalvessiqueira/raw/output/github-contribution-grid-snake.svg)
+<!-- ![](https://github.com/lalvessiqueira/lalvessiqueira/raw/output/github-contribution-grid-snake.svg) -->
 
 <!-- Pull a github user's contribution graph.
 Make it a snake Game, generate a snake path where the cells get eaten in an orderly fashion.
