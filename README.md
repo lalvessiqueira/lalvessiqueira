@@ -1,7 +1,7 @@
 😺
   
 <!-- ![Snake animation](https://github.com/lalvessiqueira/lalvessiqueira/blob/output/github-contribution-grid-snake.svg) -->
-![](https://github.com/lalvessiqueira/lalvessiqueira/raw/output/github-contribution-grid-snake.svg)
+<!-- ![](https://github.com/lalvessiqueira/lalvessiqueira/raw/output/github-contribution-grid-snake.svg) -->
 
 <!-- Generates a snake game from a github user contributions graph -->
 
